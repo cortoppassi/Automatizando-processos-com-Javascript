@@ -10,6 +10,6 @@ import puppeteer from 'puppeteer';
   await page.click("input[name=logar]");
   
    
-});
+})();
   // https://pptr.dev/
   // https://www.youtube.com/watch?v=xianIw6PleE
